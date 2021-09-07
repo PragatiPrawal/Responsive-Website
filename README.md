@@ -1,2 +1,1 @@
-# StaticWebsite
-https://pragatiprawal.github.io/StaticWebsite/
+https://pragatiprawal.github.io/Responsive-Website/
