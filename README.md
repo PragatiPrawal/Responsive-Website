@@ -1,1 +1,1 @@
-https://pragatiprawal.github.io/Responsive-Website/\
+https://pragatiprawal.github.io/Responsive-Website/
